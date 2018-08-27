@@ -1,0 +1,5 @@
+.DS_Store
+.Trashes
+cocos2d/build/
+proj.android/build/
+proj.android/app/build/
